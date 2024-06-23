@@ -1,0 +1,10 @@
+C:\Users\nikol\Desktop\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\nikol\Desktop\Battleships\bin\Debug\Battleships.exe
+C:\Users\nikol\Desktop\Battleships\bin\Debug\Battleships.pdb
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.Form1.resources
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.Properties.Resources.resources
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.exe
+C:\Users\nikol\Desktop\Battleships\obj\Debug\Battleships.pdb
