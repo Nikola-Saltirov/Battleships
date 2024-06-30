@@ -60,8 +60,8 @@
 Начинот на играње се одвива на начин што прво напаѓа корисникот, па напаѓа компјутерот (AI). Кога напаѓа комјутерот, на корисникот не му е дозволено да напаѓа, се додека не заврши нападот на компјуерот. Истото важи и за компјутерот. Доколку корисникот погоди дел од бродот (полето се бои црвено и се зголемува бројот на погодоци) му се дава можност повторно да нападне се додека не промаши, а кога ќе промаши (се зголемува бројот на промашувања) и следен е компјутерот да напаѓа. Дали е негов ред да напаѓа, корисникот може да види визуелно преку лабелата (која се наоѓа над матрицата што треба да ја напаѓа) во која се испишува текст дали е негов ред (слика 4.1 и слика 4.2).
 
 <p align="center">
-    <img width=150px height=165px src="https://github.com/AndrejT03/Battleships/assets/164937981/e957980b-c321-4c42-a3ec-eb26101cbfb2" alt="слика 4.1">
-    <img width=150px height=165px src="https://github.com/AndrejT03/Battleships/assets/164937981/9c95fdd3-83fc-48f3-995f-bc5a55f77261" alt="слика 4.2">
+    <img width=150px src="https://github.com/AndrejT03/Battleships/assets/164937981/e957980b-c321-4c42-a3ec-eb26101cbfb2" alt="слика 4.1">
+    <img width=150px src="https://github.com/AndrejT03/Battleships/assets/164937981/9c95fdd3-83fc-48f3-995f-bc5a55f77261" alt="слика 4.2">
     <br>
     <span>Слика 4.1 && 4.2</span>
 </p>
@@ -72,8 +72,8 @@
 При настан 1 корисникот победува и соодветно му се покажува порака (слика 5.1). При настан 2 корисникот губи и соодветно му се покажува порака (слика 5.2).
 
 <p align="center">
-    <img width=30% src="https://github.com/AndrejT03/Battleships/assets/164937981/95da09f1-7930-466c-bbbc-383e5c8f131e" alt="слика 5.1">
-    <img width=30% src="https://github.com/AndrejT03/Battleships/assets/164937981/28a1ce04-d437-4fd4-8d8d-56766da7140b" alt="слика 5.2">
+    <img width=30% height=165px src="https://github.com/AndrejT03/Battleships/assets/164937981/95da09f1-7930-466c-bbbc-383e5c8f131e" alt="слика 5.1">
+    <img width=30% height=165px  src="https://github.com/AndrejT03/Battleships/assets/164937981/28a1ce04-d437-4fd4-8d8d-56766da7140b" alt="слика 5.2">
     <br>
     <span>Слика 5.1 && 5.2</span>
 </p>
