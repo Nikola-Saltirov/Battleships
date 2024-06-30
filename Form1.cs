@@ -70,6 +70,7 @@ namespace Battleships
             this.Controls.Add(statusStrip);
             hits = 0;
             misses = 0;
+            UpdateStatusStrip(0, 0);
             initLabels();
             radioBtns();
             
@@ -217,6 +218,9 @@ namespace Battleships
         {
             this.Controls.Clear();
             this.Controls.Add(btnSet);
+            hits = 0;
+            misses = 0;
+            UpdateStatusStrip(0, 0);
             newShips();
         }
 
@@ -253,6 +257,11 @@ namespace Battleships
             this.Controls.Add(lblShips1);
             this.Controls.Add(groupBox);
             this.Controls.Add(gbSides);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
